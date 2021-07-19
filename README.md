@@ -1,7 +1,7 @@
 
 # APP
 
-- [App API](https://github.com/haliltirgil/api_ktu_sosyal)
+- [App API](https://github.com/haliltirgil/ktu_sosyal_api)
 - [Mobile App](https://github.com/haliltirgil/ktu_sosyal)
 
 This project is a social media application for Karadeniz Technical University students. 
